@@ -16,6 +16,7 @@ Power BI | DAX | Excel
 ## Screenshots
 ![Dashboard](screenshots/dashboard1.png)
 ![Analysis](screenshots/dashboard2.png)
+![Analysis](screenshots/dashboard3.png)
 
 ## Disclaimer
 For data analysis and visualization purposes only.
